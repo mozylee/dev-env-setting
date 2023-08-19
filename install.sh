@@ -15,7 +15,7 @@ cp -a ./fonts/. ~/Library/Fonts
 cp ./vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 
 # Register app grant
-sudo xattr -dr com.apple.quarantine /Applications/IntelliJ\ IDEA.app.app
+sudo xattr -dr com.apple.quarantine /Applications/IntelliJ\ IDEA.app
 sudo xattr -dr com.apple.quarantine /Applications/Visual\ Studio\ Code.app
 sudo xattr -dr com.apple.quarantine /Applications/Google\ Chrome.app
 sudo xattr -dr com.apple.quarantine /Applications/Fork.app
