@@ -10,15 +10,22 @@
 ./install.sh
 ```
 ## 설치되는 프로그램 목록
-- git 
-- mas
+### dev
 - openjdk@17
-- fork
-- google-chrome
+- visual-studio-code
 - intellij-idea
+- git 
+- fork
+
+### tools
 - obsidian
 - postman
+
+### utils
+- google-chrome
+- kakaotalk
 - slack
 - tiles
-- kakaotalk
-- visual-studio-code
+
+### etc
+- mas
