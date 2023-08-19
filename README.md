@@ -3,6 +3,17 @@
 대충 개발환경 세팅 자동화하려는 레포
 
 ## 사용법
+0. brew 설치
+    - next step까지 잘 챙겨서 진행
+```sh
+# install brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# next steps
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/{사용자이름}/.zprofile
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
 1. 이 레포를 clone한다.
 ```sh
 git clone https://github.com/mozylee/dev-env-setting.git
