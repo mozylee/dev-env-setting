@@ -35,12 +35,14 @@ sh install.sh
 ### tools
 - obsidian
 - postman
+- notion
 
 ### utils
 - google-chrome
 - kakaotalk
 - slack
 - tiles
+- microsoft todo
 
 ### etc
 - mas

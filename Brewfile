@@ -6,10 +6,12 @@ brew "openjdk@17"
 cask "fork"
 cask "google-chrome"
 cask "intellij-idea-ce"
+cask "notion"
 cask "obsidian"
 cask "postman"
 cask "slack"
 cask "tiles"
+mas "Microsoft To Do", id: 1274495053
 mas "카카오톡", id: 869223134
 cask "visual-studio-code"
 vscode "dbaeumer.vscode-eslint"
